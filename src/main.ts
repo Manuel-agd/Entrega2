@@ -1,3 +1,4 @@
 import "./style.css";
 
-console.log("Hello Typescript!");
+console.log("Cena de cumpleaños");
+console.log((120-18)/6);
